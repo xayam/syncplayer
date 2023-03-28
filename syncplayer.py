@@ -25,7 +25,7 @@ def change_slider(_):
 class Application:
     def __init__(self):
         self.root = tk.Tk()
-        self.root.title("SyncPlayer v2.7")
+        self.root.title("SyncPlayer v2.6")
         self.root.resizable(True, True)
         self.root.geometry("800x600+0+0")
         self.root.state('zoomed')
