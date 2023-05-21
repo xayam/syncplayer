@@ -5,9 +5,8 @@ https://github.com/xayam/syncplayer
 Only russian language
 
 # Binary zip file you can download here
-https://cloud.mail.ru/public/miC9/denyGndAh
-
-https://rutracker.org/forum/viewtopic.php?t=6341478
+- https://cloud.mail.ru/public/miC9/denyGndAh
+- https://rutracker.org/forum/viewtopic.php?t=6341478
 
 List of books
 - Азимов А. - Последний вопрос
