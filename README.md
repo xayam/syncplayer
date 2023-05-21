@@ -1,6 +1,9 @@
 # SyncPlayer
 https://github.com/xayam/syncplayer
 
+# About
+This program is audio player for synchronous listening and viewing books
+
 # Language interface
 Only russian language
 
