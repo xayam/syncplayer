@@ -11,3 +11,6 @@ https://github.com/xayam/syncbooker
 
 # List of books:
 - Wells H.G. The Time Machine 
+
+# Binary download
+https://cloud.mail.ru/public/rdBB/KHvCjQdaT
